@@ -6,9 +6,8 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
-        <link rel="icon" href="/favicon.ico" />
-      </Head>
+    
+<iframe src="https://mywebar.com/p/Project_1_p609q9a0c5" frameborder="0" scrolling="yes" seamless="seamless" style="display:block; width:100%; height:100vh;" allow="camera;gyroscope;accelerometer;magnetometer;xr-spatial-tracking;microphone;"></iframe>      </Head>
 
       <main>
         <Header title="Welcome to my app!" />
